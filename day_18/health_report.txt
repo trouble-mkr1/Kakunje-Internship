@@ -1,0 +1,7 @@
+Health Report: 
+Check-up Time: 2026-02-22 01:01:49.149034
+Patient Name: Abdul
+Age: 22
+Body Temperature: 38.0
+Heart rate: 102.0
+fever detection result: True

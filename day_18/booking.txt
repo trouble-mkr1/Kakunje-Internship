@@ -1,0 +1,6 @@
+Travel Booking Confirmation: 
+Customer Name: Abdul
+Destination: Mangalore
+Number of Travelers: 2
+Booking Time: 2026-02-22 01:01:31.350145
+Final Cost: 1050.0
