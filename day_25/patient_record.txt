@@ -1,0 +1,9 @@
+Patient Record
+--------------------
+Name : Ash
+Age : 22
+Check-In Date : 02-03-2026
+Check-In Time : 03:42 PM
+Assigned Doctor : Dr. Strange
+Room Number : 376
+Final Bill : 2420
